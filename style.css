@@ -98,6 +98,42 @@ a {
 
 /* cards */
 
+.card-box-master {
+  /* display: flex; */
+  align-items: center;
+}
 
+.card-box {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card-box img {
+  display: flex;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 15px;
+  margin: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card-box-master h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.card-box p {
+  display: flex;
+  font-family: 'Roboto', arial;
+  justify-content: center;
+}
+
+.card-box div {
+  padding: 15px;
+  justify-content: center;
+}
 
 
