@@ -162,4 +162,39 @@ a {
 
 /* interesting facts */
 
+.fun-facts {
+  background-color: #1F2937;
+  display: flex;
+  flex-direction: column;
+}
+
+.fun-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+}
+
+.fun-facts h1 {
+  font-size: 32px;
+  color: #fff;
+  font-family: 'Roboto', arial;
+  text-align: center;
+  font-weight: bold;
+}
+
+.left-side {
+  display: flex;
+  width: 300px;
+  flex-direction: column;
+  margin-left: 150px;
+}
+
+.right-side {
+  display: flex;
+  margin-left: auto;
+  flex-direction: column;
+  margin-right: 150px;
+}
+
 
