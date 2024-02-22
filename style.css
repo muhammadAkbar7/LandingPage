@@ -198,3 +198,16 @@ a {
 }
 
 
+
+/* footer */
+
+.footer {
+  font-size: 12px;
+  align-items: center;
+  text-align: center;
+  background-color: #1F2937;
+  color: #fff;
+  font-family: 'Roboto', arial;
+}
+
+
